@@ -71,7 +71,7 @@ Visual Evidence (Detected Labels):
 Based on the above, draft a formal civic complaint email/report.
 """
 
-    model = genai.GenerativeModel(model_name="models/gemini-1.5-pro-latest")
+    model = genai.GenerativeModel(model_name="models/gemini-pro-latest")
     gemini_response = model.generate_content(prompt)
     raw_text = gemini_response.text
 
