@@ -219,3 +219,7 @@ def send_email():
         image_url=None,
         message=message
     )
+#New Project frontEnd documentation
+@app.route('/speech2Sign')
+def new_project():
+    return render_template('speech2Sign/index.html')
