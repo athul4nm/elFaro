@@ -222,4 +222,4 @@ def send_email():
 #New Project frontEnd documentation
 @app.route('/speech2Sign')
 def new_project():
-    return render_template('speech2Sign/index.html')
+    return render_template('speechSign/index.html')
