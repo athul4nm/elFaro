@@ -2,6 +2,7 @@
 
 **Report local civic issues easily with the power of AI and location services**
 
+This project was developed as part of a team of 6 members.
 El Faro is a web application that empowers citizens to report civic issues by uploading images, automatically generating detailed reports using AI, and facilitating communication with local authorities.
 
 ## ✨ Features
@@ -156,8 +157,8 @@ Parameters:
 
 ## My Contribution
 - Assisted in integrating Google Cloud Vision API for image-based issue detection  
-- Contributed to processing and handling image inputs for analysis  
-- Supported testing and validation of system outputs
+- Contributed to handling and processing image inputs for analysis  
+- Participated in testing and validating system outputs  
 
   
 ## 📝 License
@@ -178,3 +179,7 @@ If you encounter any problems or have suggestions, please open an issue on GitHu
 ---
 
 **Made with ❤️ for better civic engagement**
+
+
+## Note
+This repository is a fork of the original team project with minor documentation updates.
